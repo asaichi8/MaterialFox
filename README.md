@@ -35,3 +35,4 @@ Replicate Chrome's "Not Secure" text on HTTP:
 * Some customisation settings may no longer work (such as compact/touch density).
 * Some custom themes may clash with the address bar.
 * Some themes using transparency might not work.
+* This fork is intended to be used with the "Just Black" chrome theme.
