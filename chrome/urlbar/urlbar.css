@@ -153,6 +153,7 @@
 	color: inherit !important;
 	--urlbar-height: 28px !important;
 	min-height: var(--urlbar-height) !important;
+	transform: translateY(-2px) translateX(0px) !important;
 }
 
 	#urlbar:not(:-moz-lwtheme),
